@@ -1,6 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <students>
   <student>
+    <id>0</id>
+    <name>0</name>
+    <age>0</age>
+    <city>0</city>
+  </student>
+  <student>
     <id>1</id>
     <name>Becka</name>
     <age>19</age>
