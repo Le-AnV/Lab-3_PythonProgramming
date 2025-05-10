@@ -53,6 +53,17 @@
             "timestamp": "2024-08-03 17:00:00"
           }
         ]
+      },
+      {
+        "post_id": "post_004",
+        "author": {
+          "user_id": "004_author",
+          "name": "Le Van An"
+        },
+        "content": "Thực hiện việc cấu hình các thông số bằng cách cập nhập vào 2 file trên. Chương  trình sẽ hiện menu hỏi người dùng muốn cập nhật thông tin gì.",
+        "timestamp": "2025-05-09 21:42:59",
+        "likes": [],
+        "shares": []
       }
     ]
   }
